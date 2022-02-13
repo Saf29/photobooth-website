@@ -1,0 +1,26 @@
+[
+  {
+    "image": "../assets/images/photo-1.jpg",
+    "alt": "Picture of a sophisticated camera",
+    "name": "camera",
+    "button": "View Content"
+  },
+  {
+    "image": "../assets/images/photo-2.jpg",
+    "alt": "Picture of a guy sitting on a truck of a car with an anonymous mask on",
+    "name": "Anonymous",
+    "button": "View Content"
+  },
+  {
+    "image": "../assets/images/photo-3.jpg",
+    "alt": "An illusional picture of a phone being held up as to a road making it look completed.",
+    "name": "Illusions",
+    "button": "View Content"
+  },
+  {
+    "image": "../assets/images/photo-4.jpg",
+    "alt": "Picture of tall buildings",
+    "name": "City Life",
+    "button": "View Content"
+  }
+]
